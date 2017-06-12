@@ -7,7 +7,7 @@ import android.content.Intent;
 import android.media.MediaPlayer;
 import android.widget.Toast;
 
-public class AlarmeReceiver extends BroadcastReceiver{
+public class AlarmeReceiver extends BroadcastReceiver {
 
     private MediaPlayer mp = null;
     public AlarmeReceiver() {}
